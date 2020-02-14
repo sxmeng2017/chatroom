@@ -11,7 +11,7 @@ Room类继承CommandHandler类开始给出Room类需要的数据存储。和简�
 代表最基本的Room应该具有什么功能
 LoginRoom和LogoutRoom两个类用于作为用户进入和退出的中间过程。
 这里do_logout已经在Room中完成。所以这里的logoutRoom类是无用的类。
-可以修改为
+可以修改为以下
 """
 
 
